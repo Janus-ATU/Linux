@@ -1,6 +1,5 @@
 # Linux
 This is a public repo and may be cloned to any Linux server to perform initial tasks and configuration.
- Configuration information for Linux VMs and physical servers.
 
 ## Manual Setup
 1. Assign a static IPv4 address
