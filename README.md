@@ -1,5 +1,5 @@
 # Linux
- Configuration information for Linux VMs.
+ Configuration information for Linux VMs and physical servers.
 
 ## Manual Setup
 1. Assign a static IPv4 address
