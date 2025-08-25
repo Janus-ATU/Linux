@@ -3,7 +3,7 @@
 
 ## Manual Setup
 1. Assign a static IPv4 address
-2. Create a DNS entry in dc1-letterkenny1
+2. Create a DNS entry in dc1
 
 ## Scripts
 This folder contains scripts for Linux configuration information. 
